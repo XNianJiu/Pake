@@ -454,14 +454,21 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/XNianJiu">
+                    <img src="https://avatars.githubusercontent.com/u/68808700?v=4" width="90;" alt="XNianJiu"/>
+                    <br />
+                    <sub><b>XNianJiu</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/beautifulrem">
                     <img src="https://avatars.githubusercontent.com/u/98527099?v=4" width="90;" alt="beautifulrem"/>
                     <br />
                     <sub><b>Xie Ruiqi</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/bocanhcam">
                     <img src="https://avatars.githubusercontent.com/u/35592955?v=4" width="90;" alt="bocanhcam"/>
@@ -504,6 +511,8 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                     <sub><b>Liusishan</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/piaoyidage">
                     <img src="https://avatars.githubusercontent.com/u/5135405?v=4" width="90;" alt="piaoyidage"/>
@@ -511,8 +520,6 @@ Pake 的发展离不开这些 Hacker 们，一起贡献了大量能力，也欢�
                     <sub><b>Ranger</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/hetz">
                     <img src="https://avatars.githubusercontent.com/u/820141?v=4" width="90;" alt="hetz"/>
